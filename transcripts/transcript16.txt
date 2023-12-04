@@ -1,0 +1,79 @@
+You're listening to Comedy Central. Now The Daily Show, Eres Edition in the following message is brought to you by Ford Motor Company in the Ford F series. The Ford F series has been America's pickup truck leader for 43 years and counting in the all new twenty twenty one F one 50 is completely redesigned to be the toughest, most productive F 150 ever. This is a great truck. The interior has been given a serious upgrade with more luxury and comfort. Tough.
+
+[00:00:27]
+This smart can only be called F 150. Check out the all new twenty twenty one Ford F 150 at Ford Dotcom built. Ford proud. Built Ford tough. This episode is brought to you by Carmex at CarMax, the best way to buy a car is your way. Choose from over fifty thousand CarMax certified vehicles at CarMax dot com and buy online or in-store with curbside pickup and home delivery in select markets. Get all the details today at CarMax dot com.
+
+[00:01:01]
+Heather McGhee, welcome to The Daily Social Distancing Show. Thank you. I'm so glad to be with you. I'm so excited for this conversation. You cannot even understand. I'm excited because this is a concept that I have been preaching to my friends and anyone who's within earshot of me for like the last five, six, seven years of my life. But I do not have the time nor the commitment to do any of the research to back up any of my claims.
+
+[00:01:28]
+And my claims are simple. Number one, I believe that racism costs everyone, especially white people, a lot of money and it costs all of society money. And I've always said to people that racism is one of the craziest concepts to me because it causes the people who oftentimes harbor the belief to hurt themselves. So I welcome you to the show because you've done the work behind this. You've actually done the data science behind it, and you've written a book entitled The Some of US.
+
+[00:01:57]
+Tell me a little bit about what the book is about and why that title is so important.
+
+[00:02:01]
+I wrote this book because after nearly 20 years of trying to find solutions to economic inequality and our big problems in society, I kept running up against a wall and I kept asking myself, OK, why can't we just seem to have nice things, nice things? I don't mean like hovercraft or laundry that does itself. I mean universal health care, a public health system to handle pandemics, reliable modern infrastructure in a country with so much wealth. So I set off on this journey across the country.
+
+[00:02:32]
+I immersed myself in the research and it turns out that racism is at the core of all of our most vexing public problems.
+
+[00:02:41]
+As I've traveled throughout the world, the countries where they have the most ideas are the countries where they also have the most homogenous populations, where they believe everyone should have because everyone is like me. It feels like it is easier for people to not believe that life is a zero sum game when they think that everybody is benefiting because everybody should benefit. Talk me through some of that and what you discovered in your research.
+
+[00:03:04]
+That's exactly right. The book is called The Sum of US, because at its core, when we say racism, it's the worldview that our society is a zero sum game, that progress for people of color has to come at the expense of white people. A dollar in our pocket has to mean a dollar less and theirs. And of course, economically, that's just not true. Just last year, Citigroup found that over the past 20 years, the racial economic divides which are here because of policy, past and present, cost this country 16 trillion dollars.
+
+[00:03:37]
+But I kept hearing it across the country when I talk to people. I went to Mississippi and talked to a factory worker named Joey who explained that his white co-workers voted no to join a union that would have given them better wages and benefits, because the mentality was, as he said, if they're blacks or for it, I'm against it. That has been the overarching ideology and worldview of many, if not most white Americans. According to the public opinion data, really, particularly since the civil rights movement sort of forced them to share the spoils of a country that used to be basically the benefits were for whites only.
+
+[00:04:19]
+You know, you you run think tanks and you've worked in the world of just looking at the numbers before this book. You combine the numbers with the personal stories. What have you found is the best method to get a person to understand that racism is costing them money, even though they're the one being racist?
+
+[00:04:39]
+You know, it calls to mind a visit I had with a woman named Bridget. This is a white woman who spent her whole life working in fast food. She lives in Kansas City and she totally had bought the US versus them zero sum anti immigrant, anti, you know, people in the inner city story. And because of that, I think in many ways she actually did believe that she, herself a minimum wage worker, was ever going to be worth more than seven twenty five an hour.
+
+[00:05:07]
+But she was approached by workers who are organizing with the fight for fifteen, fifteen dollars an hour. And she went to the first organizing meeting. She saw a Latina woman stand up and describe her like her bad plumbing, her apartment, having three kids and feeling trapped. And she said, I saw myself in her. And Bridget came to realize that it wasn't a zero sum game, as she says, you know, black, white or brown.
+
+[00:05:31]
+It's not us versus them for me to come up. You've got to come up to she said, as long as we're divided, we're conquered. And that movement, the racial fight for 15, has been unlocking what I began to call the solidarity dividend. These gains we can achieve, but only when we link arms together across race, higher wages, cleaner air, better funded schools for everyone in America.
+
+[00:05:56]
+One of the things that intrigued me the most because it was similar to South Africa was. The story of the public swimming pools is even up stand up, it's about this where I would say, you know, racism is such a powerful drug that it would make white people drain swimming pools. The thing that they loved more than anything, they decimated them. You've used this as the central unit, like the throughline to the book and the telling of the story while public pools the perfect example of how racism hurts the people who oftentimes the most racist.
+
+[00:06:27]
+I went to Montgomery, Alabama, where there's this park in the middle of the town called Oak Park, and it used to have one of the nearly 2000 grand resort style public swimming pools that were built in the 20s, 30s and 40s at a time when it was just one little symbol of a big government commitment to everyone having a high quality of life. This was when the sort of American dream really set took root. The swimming pool was public. It was funded with tax dollars, and yet it was segregated.
+
+[00:06:59]
+During the civil rights movement, black families said, Hey, what about us? And instead of integrating it, the town of Montgomery closed the swimming pool, drained the public pool back, did it back to truck full of dirt, filled it and actually closed the entire Parks and Recreation Department wherever they even sold off the animals in the zoo. And they kept it closed for a decade, the entire nineteen sixties. It's wild. It's wild, but it is the perfect example of the way that racism has a cost for everyone.
+
+[00:07:36]
+It feels like in America, ever since the civil rights movement, we've all been sort of dealing with living in the bottom of a drained pool, it feels like since then. And the evidence bears this out. We have seen white people with their votes turn their backs on the formula that created the great middle class that makes would have made all of our lives better because they would have to share it with people they've been taught. And that's the key that they've been taught to disdain and distrust.
+
+[00:08:05]
+You know what I what I also enjoyed about the book is that you lay out the possibilities, you lay out the conversations that need to be had and you lay out the economic benefits of it all. Before I let you go, one of the more interesting things that you that you propose is having some sort of Truth and reconciliation commission where people talk about these things. Now, as a South African, I saw the benefits and I've also seen the shortcomings of not doing something post the conversation.
+
+[00:08:31]
+So walk me through why you think America would benefit from having some sort of truth and reconciliation commission.
+
+[00:08:37]
+So we have a country the United States was born with this view of a zero sum racial hierarchy built into the economic justification for stolen land, stolen people and stolen labor. This is a very old idea. And yet we've never gotten on the same page about our history. So I think it's not possible for us to actually move forward if we're still contesting the basic facts about our history and even our present. So obviously, we have to have a sort of truth effort, but it can't just be a commission in Washington.
+
+[00:09:11]
+What's so exciting to me is that it's happening at the community level. You've got to take action, but you also have to start with telling the truth. And that's what's been robbed from us. Aren't truth in this country is so much more terrible, but also because of the overcoming so much more beautiful than we've been allowed to truly know.
+
+[00:09:31]
+While hopefully reading your book will be the first journey on that first part of that journey, rather, because I think it's insightful, it's wonderful. It is optimistic, but it's also truthful at the same time. Heather McGhee, thank you so much for taking the time and congratulations on a fantastic book.
+
+[00:09:46]
+Thank you, Trevor. Thank you so much. The Daily Show with criminal ears is Watch The Daily Show weeknights at 11:00, 10:00 Central on Comedy Central and the Comedy Central. Watch full episodes and videos at The Daily Show Datong. Follow us on Facebook, Twitter and Instagram and subscribe to The Daily Show on YouTube for exclusive content and more.
+
+[00:10:10]
+Introducing touch free payments from PayPal, a safe way for your customers to pay, simply download the PayPal app and display your own unique QR code for your customers to scan whether you're a market seller, tomatoes and a poodle pamper piano tuner.
+
+[00:10:29]
+Or plumber signing up to accept such free payments for your business is easy, touch free QR code payments shop safe with PayPal.
+
+[00:10:41]
+This has been a Comedy Central podcast now.
